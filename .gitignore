@@ -82,7 +82,6 @@ celerybeat-schedule
 *.sage.py
 
 # dotenv
-.env
 
 # virtualenv
 .venv
@@ -103,4 +102,5 @@ ENV/
 .mypy_cache/
 
 # IDE settings
-.vscode/
+config.bat
+node_modules
